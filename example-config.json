@@ -1,0 +1,14 @@
+{
+	"credentials": {
+		"key": "<binance api key>",
+		"secret": "<binance api secret>"
+	},
+	"db_file": "klines.db",
+	"start_date": "2020-01-01",
+	"interval": "5m",
+	"pairs": [
+		"BTCUSDT",
+		"ETHUSDT",
+		"XRPUSDT"
+	]
+}
